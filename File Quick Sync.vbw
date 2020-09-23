@@ -1,0 +1,15 @@
+frm_main = 139, 115, 747, 691, C, 0, 0, 0, 0, C
+mod_ini = 129, 103, 714, 679, C
+mod_error = 129, 103, 576, 679, C
+mod_main = 117, 102, 752, 704, C
+frm_action = 167, 114, 775, 696, C, 0, 0, 0, 0, C
+frm_templates = 129, 103, 576, 679, C, 0, 0, 0, 0, C
+frm_folder = 134, 117, 581, 684, C, 0, 0, 0, 0, C
+frm_sync = 204, 107, 926, 701, C, 0, 0, 0, 0, C
+modFolderBrowse = 129, 103, 1006, 710, C
+modMakeDir = 129, 103, 766, 679, C
+frm_dialog = 129, 103, 576, 679, C, 0, 0, 0, 0, C
+frm_scheduler = 129, 103, 682, 691, C, 0, 0, 0, 0, C
+mod_SelectFolder = 129, 103, 733, 695, C
+mod_SysTray = 129, 103, 789, 683, C
+frm_question = 129, 103, 576, 679, C, 0, 0, 0, 0, C
